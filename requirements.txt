@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+xgboost
+pmdarima
+prophet
+pyomo
+gurobipy
+highspy
+matplotlib
+streamlit
+pytest
